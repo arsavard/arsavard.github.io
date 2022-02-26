@@ -8,6 +8,8 @@ You'll maybe have seen something akin to the following:
 
 Maybe you're familiar with it, maybe you've never seen it before, but it took me a moment to catch it. Easy fix:
 
+```
 svelte run build
+```
 
 Everything works!
